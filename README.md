@@ -34,7 +34,7 @@ CSE undergraduate building hands-on security labs in
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalamin-infosec&layout=compact&hide_border=true&theme=tokyonight&langs_count=10"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalamin-infosec&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&hide=Makefile"
 />
 
 </div>
@@ -45,10 +45,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalamin-inf
 
 | Project | Highlights |
 |---|---|
-| 🟦 **Active Directory Attack & Defense** | GOAD • Sysmon • Wazuh • **10+ attack scenarios** • MITRE ATT&CK |
-| 🟪 **Detection Engineering** | **15 Sigma + 8 Suricata rules** • Detection testing • SIEM tuning |
-| 🟥 **Network Threat Detection** | Suricata • Elastic • Kibana • PCAP / Alert Investigation |
-| 🟩 **Vulnerability Scanner** | Python • Nmap • **70+ CVE findings** in a controlled lab |
+| 🟪 **[Detection Engineering](https://github.com/mdalamin-infosec/Security-Labs/tree/master/sigma-suricata-detection-rules)** | **15 Sigma + 8 Suricata rules** • Detection testing • SIEM tuning |
+| 🟥 **[Network Threat Detection](https://github.com/mdalamin-infosec/Security-Labs/tree/master/network-intrusion-detection-suricata)** | Suricata • Alert analysis • Controlled VM-to-VM detection validation |
+| 🟨 **[Threat Detection & Triage](https://github.com/mdalamin-infosec/Security-Labs/tree/master/realtime-threat-detection-elk)** | Security event triage • Incident correlation • MITRE ATT&CK mapping |
+| 🟩 **[Vulnerability Scanner](https://github.com/mdalamin-infosec/Security-Labs/tree/master/enterprise-vulnerability-scanner)** | Python • Nmap • NVD enrichment • CVE candidate assessment |
+| 🔐 **[Secure Code Review](https://github.com/mdalamin-infosec/Security-Labs/tree/master/secure-code-review)** | Rust • Secure vs vulnerable implementation • Cargo • Clippy |
+| 🌐 **[Basic Network Sniffer](https://github.com/mdalamin-infosec/Network-Labs/tree/master/BasicNetworkSniffer)** | Python • Scapy • Packet sniffing • ICMP/TCP analysis |
 
 ---
 

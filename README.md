@@ -15,7 +15,7 @@ CSE undergraduate building and validating hands-on security labs in
 <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge">
 <img src="https://img.shields.io/badge/Python-238636?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
@@ -35,7 +35,7 @@ CSE undergraduate building and validating hands-on security labs in
 
 ## 👋 About
 
-I build and test detection content, not just run tools. My labs use **Suricata, Elastic Stack (ELK), Wazuh, and Sysmon**, and every detection is validated against ground truth: PCAP replay, isolated VM attack scenarios, and benign traffic to measure false positives. Evidence is retained in each repo so results can be reproduced.
+I build and test detection content, not just run tools. My labs use **Suricata, Elastic Stack (ELK), Wazuh, and Sysmon**, and I validate detections against ground truth: PCAP replay, isolated VM attack scenarios, and benign traffic to measure false positives.
 
 **Open to:** entry-level, new-grad, and internship roles in Security Engineering, Detection & Response, and Network Security.  
 **Currently preparing:** CCNP, CompTIA Security+, CySA+.
